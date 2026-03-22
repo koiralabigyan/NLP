@@ -1,0 +1,10 @@
+__label__positive The flight service is excellent
+__label__positive The airline staff were very helpful
+__label__positive Travel arrangements were smooth and comfortable
+__label__positive The airport experience was pleasant
+__label__positive Flights were on time and well managed
+__label__negative The flight was delayed for hours
+__label__negative Customer service was very poor
+__label__negative The airport was overcrowded
+__label__negative The travel experience was frustrating
+__label__negative I had a terrible flight experience
